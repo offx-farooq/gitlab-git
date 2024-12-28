@@ -1,0 +1,14 @@
+{
+    "name": "devops_pro",
+    "version": "1.0.0",
+    "description": "DevOps project setup",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Abdullah Farooq",
+    "license": "ISC",
+    "dependencies": {}
+  }
+  
